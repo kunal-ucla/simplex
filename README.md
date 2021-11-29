@@ -16,7 +16,7 @@ python -i jordan.py
   <img src="https://i.ibb.co/VmsLZ5X/Code-Cogs-Eqn.png" />
 </p>
 <p align="center">
-  <img src="https://latex.codecogs.com/png.download?%5Cinline%20%5Cdpi%7B100%7D%20%5Cmin%20%5Csum_i%20c_i%20*%20x_i" />
+  <img src="https://i.ibb.co/HTtp10f/Code-Cogs-Eqn-1.png" />
 </p>
 
 And the convert this into a numpy 2D array. For example, if the given LP is:
