@@ -61,6 +61,10 @@ This will print the tableau in latex format which you can directly paste in your
 
 ![example](https://i.ibb.co/55gMDvw/Screenshot-2021-11-29-at-2-56-31-PM.png)
 
+The table in latex would look like this:
+
+![latex](https://i.ibb.co/RY7fzj6/Screenshot-2021-11-29-at-3-10-00-PM.png)
+
 ## Miscellaneous
 
 Note: The algo uses the Bland's pivoting rule everytime.
