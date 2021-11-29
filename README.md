@@ -59,11 +59,15 @@ ans,top,left=run(P3,[3,4,5],lyx=True)
 ```
 This will print the tableau in latex format which you can directly paste in your latex workbook. Example:
 
-![example](https://i.ibb.co/55gMDvw/Screenshot-2021-11-29-at-2-56-31-PM.png)
+<p align="center">
+  <img src="https://i.ibb.co/55gMDvw/Screenshot-2021-11-29-at-2-56-31-PM.png" />
+</p>
 
 The table in latex would look like this:
 
-![latex](https://i.ibb.co/RY7fzj6/Screenshot-2021-11-29-at-3-10-00-PM.png)
+<p align="center">
+  <img src="https://i.ibb.co/RY7fzj6/Screenshot-2021-11-29-at-3-10-00-PM.png" />
+</p>
 
 ## Miscellaneous
 
