@@ -13,7 +13,7 @@ python -i jordan.py
 
 **Step 1:** Define your initial tableau (doesn't need to be feasible, doesn't need to be at the desired start point). It's as simple as writing the constraints in the form:
 <p align="center">
-  <img src="https://latex.codecogs.com/png.download?%5Cinline%20%5Cdpi%7B100%7D%20%5Csum_j%20a_%7Bij%7D%20*%20x_j%20+%20b_i%20%5Cge%200" />
+  <img src="https://i.ibb.co/VmsLZ5X/Code-Cogs-Eqn.png" />
 </p>
 <p align="center">
   <img src="https://latex.codecogs.com/png.download?%5Cinline%20%5Cdpi%7B100%7D%20%5Cmin%20%5Csum_i%20c_i%20*%20x_i" />
