@@ -11,12 +11,12 @@ You will need python installed along with the 'numpy' and 'fractions' libraries 
 python -i jordan.py
 ```
 
-**Step 1:** Define your initial tableau (doesn't need to be feasible, doesn't need to be at the desired start point). It's as simple as writing the constraints in the form:
-<p align="center">
-  <img src="https://i.ibb.co/VmsLZ5X/Code-Cogs-Eqn.png" />
-</p>
+**Step 1:** Define your initial tableau (doesn't need to be feasible, doesn't need to be at the desired start point). It's as simple as writing the LP in the form:
 <p align="center">
   <img src="https://i.ibb.co/HTtp10f/Code-Cogs-Eqn-1.png" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/VmsLZ5X/Code-Cogs-Eqn.png" />
 </p>
 
 And the convert this into a numpy 2D array. For example, if the given LP is:
